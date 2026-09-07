@@ -1,0 +1,8 @@
+{
+  "id": "agriculture-platform",
+  "port": 46025,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:37.997Z"
+}

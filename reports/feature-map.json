@@ -1,0 +1,3344 @@
+{
+  "mapped": [
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "supplier-program-library",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "supplier-program-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "farm-account-registry",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "farm-account-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "product-eligibility-mapping",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "product-eligibility-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "purchase-transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "purchase-transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "acre-application-evidence",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "acre-application-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "volume-tier-calculation",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "volume-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "product-bundle-validation",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "product-bundle-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "early-order-incentive",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "early-order-incentive",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "loyalty-status-control",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "loyalty-status-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "return-exclusion",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "return-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "rebate-claim-preparation",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "rebate-claim-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "supplier-statement-audit",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "supplier-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "dispute-workflow",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "credit-cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "credit-cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "farm-supplier-analytics",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/app.config.mjs",
+      "canonical": "farm-supplier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "QuotaAccount",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "quota-account",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "FishingVessel",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "fishing-vessel",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "QuotaAllocation",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "quota-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "QuotaTransfer",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "quota-transfer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "FishingTrip",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "fishing-trip",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "LandingRecord",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "landing-record",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "LandingCorrection",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "landing-correction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "QuotaLease",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "quota-lease",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "FisheryReport",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "fishery-report",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "landing-ticket-extraction",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "landing-ticket-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "species-and-unit-reconciliation",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "species-and-unit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "quota-variance-explanation",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "quota-variance-explanation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "transfer-document-completeness",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "transfer-document-completeness",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "landing-correction-brief",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "landing-correction-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "fishery-report-narrative",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "fishery-report-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dairy-milk-component-payment-audit",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-dairy-milk-component-payment-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dairy-milk-component-payment-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-dairy-milk-component-payment-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dairy-milk-component-payment-audit",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-dairy-milk-component-payment-audit/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-grain-elevator-merchandising-settlement",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-grain-elevator-merchandising-settlement/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-grain-elevator-merchandising-settlement",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-grain-elevator-merchandising-settlement/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-grain-elevator-merchandising-settlement",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-grain-elevator-merchandising-settlement/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-h2a-farm-labor-compliance",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-h2a-farm-labor-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-h2a-farm-labor-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-h2a-farm-labor-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-h2a-farm-labor-compliance",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-h2a-farm-labor-compliance/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "/fields",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture/frontend/src/components/Layout.tsx",
+      "canonical": "fields",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "/detections",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture/frontend/src/components/Layout.tsx",
+      "canonical": "detections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "/treatments",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture/frontend/src/components/Layout.tsx",
+      "canonical": "treatments",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "/health-reports",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture/frontend/src/components/Layout.tsx",
+      "canonical": "health-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "/sensors",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture/frontend/src/components/Layout.tsx",
+      "canonical": "sensors",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "/weather",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture/frontend/src/components/Layout.tsx",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "/field-operations",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture/frontend/src/components/Layout.tsx",
+      "canonical": "field-operations",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "ai/spray-window",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "spray-window",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "ai/residue-risk",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "residue-risk",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "ai/soil-health",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "soil-health",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "ai/disease-early-warning",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "disease-early-warning",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "ai/beneficial-insects",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "beneficial-insects",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "utility/export",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "utility-export",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "utility/search",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "utility-search",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "utility/activity",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "admin/sample-data",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "admin-sample-data",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/pest-photo-classifier",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-pest-photo-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/sensor-anomaly",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-sensor-anomaly",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/spray-window",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "spray-window",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/crop-rotation",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-crop-rotation",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/treatment-efficacy",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-treatment-efficacy",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/residue-audit",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-residue-audit",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/biocontrol-market",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-biocontrol-market",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/coop-heatmaps",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-coop-heatmaps",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/drone-vision",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-drone-vision",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/federated-weather",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-federated-weather",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/image-upload",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-image-upload",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/multi-tenant-farms",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-multi-tenant-farms",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/notifications",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/offline-sync",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-offline-sync",
+      "kind": "route"
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "sourceKey": "audit/weather-providers",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "canonical": "audit-weather-providers",
+      "kind": "route"
+    },
+    {
+      "project": "ai-organic-certification-evidence",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-organic-certification-evidence/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-organic-certification-evidence",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-organic-certification-evidence/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-organic-certification-evidence",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-organic-certification-evidence/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-produce-packhouse-traceability",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-produce-packhouse-traceability/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-produce-packhouse-traceability",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-produce-packhouse-traceability/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-produce-packhouse-traceability",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-produce-packhouse-traceability/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "stumpage-agreement-library",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "stumpage-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "tract-cruise-inventory",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "tract-cruise-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "species-grade-mapping",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "species-grade-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "harvest-load-ingestion",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "harvest-load-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "scale-ticket-validation",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "scale-ticket-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "mill-receipt-matching",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "mill-receipt-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "weight-conversion-factors",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "weight-conversion-factors",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "board-foot-calculation",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "board-foot-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "index-price-validation",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "index-price-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "hauling-deduction-audit",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "hauling-deduction-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "road-cost-deduction",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "road-cost-deduction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "settlement-recalculation",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "settlement-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "logger-mill-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "logger-mill-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "tract-species-analytics",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/app.config.mjs",
+      "canonical": "tract-species-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "onboarding",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "onboarding",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "crop-diseases",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "crop-diseases",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "irrigation",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "irrigation",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "harvest",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "harvest",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "pests",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "pests",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "soil",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "soil",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "weather",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "weather",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "fields",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "fields",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "uploads",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "documents",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "export",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "utility-export",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "admin",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "admin",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "feedback",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "feedback",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/crop-rotation",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "audit-crop-rotation",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/yield-prediction",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "yield-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/pest-forecast",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "pest-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/subsidies",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "subsidies",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/farm-chat",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "farm-chat",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/carbon-footprint",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "carbon-footprint",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/weekly-report",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "weekly-report",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/results",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "results",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/weather-risk-alert",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "weather-risk-alert",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/soil-amendment",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "soil-amendment",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/disease-id-text",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "disease-id-text",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/market-price-prediction",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "market-price-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/sustainability-score",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "sustainability-score",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/irrigation-optimize-text",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "irrigation-optimize-text",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/irrigation-realtime",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "irrigation-realtime",
+      "kind": "route"
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "sourceKey": "ai/iot-sensor-summary",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "canonical": "iot-sensor-summary",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/farms",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "farms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/net-pens",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "net-pens",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/fish-groups",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "fish-groups",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/feed-inventory",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "feed-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/treatments",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "treatments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/mortality-logs",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "mortality-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/water-quality",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "water-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/biomass-estimates",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "biomass-estimates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/sea-lice-counts",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "sea-lice-counts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/vessels",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "vessels",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/divers",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "divers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/harvests",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "harvests",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/certifications",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "certifications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/predator-incidents",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "predator-incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/environmental-impacts",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "environmental-impacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/biomass-vision-estimate",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "biomass-vision-estimate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/sea-lice-counts-classify",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "sea-lice-counts-classify",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/feed-conversion-optimize",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "feed-conversion-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/mortality-anomaly-detect",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "mortality-anomaly-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/treatment-recommend",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "treatment-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/harvest-schedule",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "harvest-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/water-quality-anomaly",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "water-quality-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/predator-deterrent-plan",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "predator-deterrent-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/environmental-risk-brief",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "environmental-risk-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/vessel-shift-schedule",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "vessel-shift-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/diver-safety-brief",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "diver-safety-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/customer-quality-report",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "customer-quality-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/certification-readiness",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "certification-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/vendor-quality-score",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "vendor-quality-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "/ai/market-price-forecast",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm/frontend/src/pages/Dashboard.js",
+      "canonical": "market-price-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "ai/stocking-density-risk",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "stocking-density-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "ai/fish-health-diagnostic",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "fish-health-diagnostic",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "ai/biomass-forecast",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "biomass-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "ai/harvest-timing",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "harvest-timing",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "ai/mortality-predict",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "mortality-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "ai/sustainability-score",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "sustainability-score",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "ai/pen-camera-analyze",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "pen-camera-analyze",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "ai/escape-detect",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "escape-detect",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "feeding-schedules",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "feeding-schedules",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "water-quality-ingest",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "water-quality-ingest",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "regulatory-reports",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "regulatory-reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/apiaries",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "apiaries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/hives",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "hives",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/queens",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "queens",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/inspections",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "inspections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/treatments",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "treatments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/honey-harvests",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "honey-harvests",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/supplies",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "supplies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/beekeepers",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "beekeepers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/pollination-contracts",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "pollination-contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/plant-sources",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "plant-sources",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/weather-briefs",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "weather-briefs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/disease-outbreaks",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "disease-outbreaks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/swarms",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "swarms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/varroa-counts",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "varroa-counts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/hive-sounds",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "hive-sounds",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/queen-status-from-sound",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "queen-status-from-sound",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/varroa-treatment-recommend",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "varroa-treatment-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/swarm-risk-predict",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "swarm-risk-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/pollination-route-plan",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "pollination-route-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/hive-strength-trend",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "hive-strength-trend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/harvest-forecast",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "harvest-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/treatment-efficacy-analyze",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "treatment-efficacy-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/customer-quote",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "customer-quote",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/weather-impact-brief",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "weather-impact-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/disease-outbreak-summary",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "disease-outbreak-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/supply-resupply-plan",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "supply-resupply-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/beekeeper-schedule",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "beekeeper-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/plant-source-map",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "plant-source-map",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/equipment-prognostic",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment-prognostic",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "/ai/vendor-quote-compare",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary/frontend/src/pages/Dashboard.js",
+      "canonical": "vendor-quote-compare",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "ai/hive-acoustic-anomaly",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "hive-acoustic-anomaly",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "ai/varroa-risk-score",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "varroa-risk-score",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "ai/queen-health-assess",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "queen-health-assess",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "ai/beekeeper-mentor",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "beekeeper-mentor",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "ai/foraging-optimizer",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "foraging-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "ai/nectar-flow-calendar",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "nectar-flow-calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "treatment-labels",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "treatment-labels",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "pesticide-setbacks",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "pesticide-setbacks",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "market-prices",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "market-prices",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "biosecurity-scores",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "biosecurity-scores",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "contract-revenue-models",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "contract-revenue-models",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "genetic-resilience",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "genetic-resilience",
+      "kind": "route"
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "sourceKey": "queen-lineage",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "canonical": "queen-lineage",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "grow-rooms",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "grow-rooms",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "plants",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "plants",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "yield-predictions",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "yield-predictions",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "lab-tests",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "lab-tests",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "inventory",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "inventory",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "tasks",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "tasks",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "harvests",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "harvests",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "strains",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "strains",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "waste-records",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "waste-records",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "environmental-alerts",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "environmental-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/regulatory-tracker",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "regulatory-tracker",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/harvest-timing",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "harvest-timing",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/license-renewal",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "license-renewal",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/microbial-analyzer",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "microbial-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/supply-chain",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "supply-chain",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/harvest-readiness",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "harvest-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/pest-detection",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "pest-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/energy-optimizer",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "energy-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/seed-supplier",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "seed-supplier",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "ai/history",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "seasonal-risk",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "seasonal-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "cross-farm-benchmark",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "cross-farm-benchmark",
+      "kind": "definition"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "fertilizer-optimize",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "fertilizer-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "weather-trigger",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "weather-trigger",
+      "kind": "definition"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "treatment-efficacy/insights",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "treatment-efficacy-insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "supplier-match",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "supplier-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "predict-yield",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "predict-yield",
+      "kind": "definition"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "optimize-harvest-timing",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "optimize-harvest-timing",
+      "kind": "definition"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "recommend-ipm-strategy",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "recommend-ipm-strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "harvest-disease-window",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "harvest-disease-window",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "cf/multi-modal-crop-health-assessment",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "multi-modal-crop-health-assessment",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "cf/farmer-decision-support",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "farmer-decision-support",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "cf/supply-chain-optimization",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "supply-chain-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "cf/integrated-pest-management-ipm-automation",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "integrated-pest-management-ipm-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "gap/marketplace-expert-consultations-lack-ai-driven-matching",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "marketplace-expert-consultations-lack-ai-driven-matching",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "gap/farm-management-lacks-ai-yield-forecasting-endpoint",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "farm-management-lacks-ai-yield-forecasting-endpoint",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "gap/community-reports-lacks-ai-moderation-clustering",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "community-reports-lacks-ai-moderation-clustering",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "gap/no-mobile-field-capture-app-surfaces-beyond-rest-api",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "mobile-field-capture-app-surfaces-beyond-rest-api",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "gap/no-webhooks-for-sensor-weather-pushes",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "webhooks-for-sensor-weather-pushes",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "gap/no-sms-or-push-notifications",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "sms-or-push-notifications",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "gap/no-payment-marketplace-transaction-handling",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "payment-marketplace-transaction-handling",
+      "kind": "route"
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "sourceKey": "gap/no-calendar-integration-only-internal-crop-calendar",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "canonical": "calendar-integration-only-internal-crop-calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/fish-stocks",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "fish-stocks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/feed-records",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "feed-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/water-quality",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "water-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/sensors",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "sensors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/harvest-plans",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "harvest-timing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/regulatory",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "regulatory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/diseases",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "diseases",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/vision-disease",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "vision-disease",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/growth-records",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "growth-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/weather",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/sustainability",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "sustainability-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/mortality-predict",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "mortality-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/sensor-monitor",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "sensor-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/ai-results",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/species",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "species",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/ponds",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "ponds",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/feed-inventory",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "feed-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/employees",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "employees",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/financial",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "financial",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager/client/src/components/Layout.js",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "stocking-permit-planner",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager",
+      "canonical": "stocking-permit-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "sourceKey": "agentic-farm",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager",
+      "canonical": "agentic-farm",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/api/ai/disease-outbreak-check",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/AIToolsPage.jsx",
+      "canonical": "api-ai-disease-outbreak-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/api/ai/timber-market-alert",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/AIToolsPage.jsx",
+      "canonical": "api-ai-timber-market-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/api/ai/gis-harvest-blocks",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/AIToolsPage.jsx",
+      "canonical": "api-ai-gis-harvest-blocks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/api/ai/wildfire-weather-scan",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/AIToolsPage.jsx",
+      "canonical": "api-ai-wildfire-weather-scan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/api/ai/safety-incident-analysis",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/AIToolsPage.jsx",
+      "canonical": "api-ai-safety-incident-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/api/ai/reforestation-plan",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/AIToolsPage.jsx",
+      "canonical": "api-ai-reforestation-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/api/ai/compliance-review",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/AIToolsPage.jsx",
+      "canonical": "api-ai-compliance-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/tree-inventory",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "tree-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/harvest-plans",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "harvest-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/wildfire-assessments",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "wildfire-assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/carbon-credits",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "carbon-credits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/forest-plots",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "forest-plots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/workers",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "workers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/disease-reports",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "disease-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/timber-sales",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "timber-sales",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "/compliance-reports",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement/client/src/pages/Dashboard.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "cf-agentic-forest-planning-multi-agent-syst",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "agentic-forest-planning-multi-agent-syst",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "cf-drone-fused-canopy-cv-extend-canopy",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "drone-fused-canopy-cv-extend-canopy",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "cf-buyer-demand-matching-predictive-marketp",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "buyer-demand-matching-predictive-marketp",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "cf-real-time-mqtt-broker-integration-for",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "real-time-mqtt-broker-integration-for",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "cf-regulatory-rag-assistant-over-usfsstate-",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "regulatory-rag-assistant-over-usfsstate",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "cf-carbon-market-arbitrage-compares-verra-v",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "carbon-market-arbitrage-compares-verra-v",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-no-dedicated-wildfire-spread-simulation-",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "dedicated-wildfire-spread-simulation",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-no-vendorsupplier-matching-ai-only-telem",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "vendorsupplier-matching-ai-only-telem",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-no-labor-scheduling-ai-for-field",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "labor-scheduling-ai-for-field",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-no-soprag-over-forestry-regulations-defe",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "soprag-over-forestry-regulations-defe",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-no-modular-tree-inventory-crud-only",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "modular-tree-inventory-crud-only",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-no-teamshift-scheduling-for-field-operat",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "teamshift-scheduling-for-field-operat",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-no-equipment-fleet-crud-beyond-predictiv",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "equipment-fleet-crud-beyond-predictiv",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-no-cost-tracking-pl-module",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "cost-tracking-pl-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-no-real-iot-mqtt-broker-telemetry",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "real-iot-mqtt-broker-telemetry",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "gap-monolithic-structure-makes-route-discove",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "monolithic-structure-makes-route-discove",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/species-identification",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "species-identification",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/harvest-optimization",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "harvest-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/wildfire-risk",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "wildfire-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/carbon-estimation",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "carbon-estimation",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/disease-analysis",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "disease-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/growth-prediction",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "growth-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/disease-outbreak",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "disease-outbreak",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/timber-market-alert",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "api-ai-timber-market-alert",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/gis-harvest-blocks",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "gis-harvest-blocks",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/wildfire-weather-scan",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "api-ai-wildfire-weather-scan",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/safety-incident-analysis",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "safety-incident-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/equipment-maintenance",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "equipment-maintenance",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/reforestation-plan",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "api-ai-reforestation-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai/compliance-review",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "api-ai-compliance-review",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "safety-incidents",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "safety-incidents",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "market-prices",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "market-prices",
+      "kind": "route"
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "sourceKey": "ai-results",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "canonical": "results",
+      "kind": "route"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "/ai/disease-risk-assessment",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/AIToolsPage.js",
+      "canonical": "disease-risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "/ai/breeding-advisor",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/AIToolsPage.js",
+      "canonical": "breeding-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "/ai/health-anomaly-detector",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/AIToolsPage.js",
+      "canonical": "health-anomaly-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "/ai/nutrition-optimizer",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/AIToolsPage.js",
+      "canonical": "nutrition-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "/ai/economic-forecaster",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/AIToolsPage.js",
+      "canonical": "economic-forecaster",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Animal Registry",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "animal-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Health Records",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "health-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Disease Detection",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "diseases",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Vaccination Tracking",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "vaccination-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Feed Management",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "feed-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Weight Tracking",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "weight-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Breeding Records",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "breeding-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Veterinary Visits",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "veterinary-visits",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Medication Tracking",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "medication-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Herd Management",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "herd-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Alert System",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "alert-system",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Milk Production",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "milk-production",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Mortality Records",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "mortality-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "Financial Reports",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring/frontend/src/pages/FeaturePage.js",
+      "canonical": "financial-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "sourceKey": "parasite-grazing-rotation",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring",
+      "canonical": "parasite-grazing-rotation",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Yield Predictions",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "yield-predictions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Market Prices",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "market-prices",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Weather Analysis",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "weather-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Soil Health",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "soil-health",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Crop Recommendations",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "crop-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Pest & Disease Alerts",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "pest-disease-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Irrigation Plans",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "irrigation-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Harvest Planning",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "harvest-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Market Trends",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "market-trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Supply Chain",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "supply-chain",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Financial Planning",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "financial-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Satellite Imagery",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "satellite-imagery",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Equipment Management",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "equipment-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Labor Planning",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "labor-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "Sustainability Metrics",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel/frontend/src/App.js",
+      "canonical": "sustainability-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "multimodal-yield",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "multimodal-yield",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "drone-pest-detection",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "drone-pest-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "commodity-forecast",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "commodity-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "supply-chain-risk",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "supply-chain-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "microclimate",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "microclimate",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "water-optimize",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "water-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "equipment-failure",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "equipment-failure",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "extension-services",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "extension-services",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "ai/yield-prediction",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "yield-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "ai/market-trend-forecast",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "market-trend-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "ai/pest-outbreak-prediction",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "pest-outbreak-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "ai/irrigation-optimize",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "irrigation-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "ai/soil-amendment",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "soil-amendment",
+      "kind": "route"
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "sourceKey": "ai/equipment-maintenance",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "canonical": "equipment-maintenance",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-agricultural-input-rebate-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-agricultural-input-rebate-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-commercial-fishing-quota-ledger",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-commercial-fishing-quota-ledger/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "key": "login",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-low-pesticide-agriculture",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/ai-low-pesticide-agriculture",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-timber-stumpage-royalty-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-timber-stumpage-royalty-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "privacy",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "terms",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAgricultureAssistant",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAgricultureAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIAquacultureFishFarm",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAquacultureFishFarm",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIBeekeepingApiary",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBeekeepingApiary",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "login",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/grow-rooms/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/plants/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/compliance/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/yield-predictions/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/lab-tests/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/inventory/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/tasks/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/harvests/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/strains/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/waste-records/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "/environmental-alerts/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "operations",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICannabisCultivationCompliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICannabisCultivationCompliance",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICropDiseasePestDetection",
+      "key": "login",
+      "source": "/Volumes/external/projects/AICropDiseasePestDetection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIFisheriesAquacultureManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFisheriesAquacultureManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIForestryTimberManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIForestryTimberManagement",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "key": "login",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AILivestockHealthMonitoring",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILivestockHealthMonitoring",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIYieldPredictionMarketIntel",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIYieldPredictionMarketIntel",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "supplier-program-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "farm-account-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-eligibility-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "purchase-transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "acre-application-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-bundle-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "early-order-incentive",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "loyalty-status-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "return-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-claim-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "farm-supplier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "stumpage-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tract-cruise-inventory",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "species-grade-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "harvest-load-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "scale-ticket-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "mill-receipt-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "weight-conversion-factors",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "board-foot-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "index-price-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "hauling-deduction-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "road-cost-deduction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "logger-mill-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tract-species-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

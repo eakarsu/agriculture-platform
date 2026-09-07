@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "transfer-document-completeness",
+      "operations-handoff-draft"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "transfer-document-completeness",
+        "title": "Transfer document completeness",
+        "originalPath": "/features/transfer-document-completeness"
+      },
+      {
+        "id": "operations-handoff-draft",
+        "title": "Operations handoff draft",
+        "originalPath": "/features/operations-handoff-draft"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "supplier-program-library",
+      "farm-account-registry",
+      "purchase-transaction-ingestion",
+      "volume-tier-calculation",
+      "early-order-incentive",
+      "return-exclusion",
+      "rebate-claim-preparation",
+      "dispute-workflow",
+      "farm-supplier-analytics",
+      "landing-ticket-extraction",
+      "quota-variance-explanation",
+      "landing-correction-brief",
+      "fishery-report-narrative",
+      "sensors",
+      "weather",
+      "spray-window",
+      "soil-health",
+      "disease-early-warning",
+      "beneficial-insects",
+      "audit-crop-rotation",
+      "stumpage-agreement-library",
+      "tract-cruise-inventory",
+      "species-grade-mapping",
+      "harvest-load-ingestion",
+      "board-foot-calculation",
+      "logger-mill-dispute-workflow",
+      "tract-species-analytics",
+      "subsidies",
+      "farm-chat",
+      "carbon-footprint",
+      "weekly-report",
+      "results",
+      "soil-amendment",
+      "disease-id-text",
+      "irrigation-realtime",
+      "iot-sensor-summary",
+      "biomass-vision-estimate",
+      "executive-brief",
+      "predator-deterrent-plan",
+      "certification-readiness",
+      "fish-health-diagnostic",
+      "harvest-timing",
+      "queen-status-from-sound",
+      "varroa-treatment-recommend",
+      "pollination-route-plan",
+      "treatment-efficacy-analyze",
+      "customer-quote",
+      "weather-impact-brief",
+      "disease-outbreak-summary",
+      "supply-resupply-plan",
+      "plant-source-map",
+      "equipment-prognostic",
+      "vendor-quote-compare",
+      "queen-health-assess",
+      "beekeeper-mentor",
+      "nectar-flow-calendar",
+      "strains",
+      "license-renewal",
+      "supply-chain",
+      "harvest-readiness",
+      "seed-supplier",
+      "weather-trigger",
+      "supplier-match",
+      "recommend-ipm-strategy",
+      "multi-modal-crop-health-assessment",
+      "community-reports-lacks-ai-moderation-clustering",
+      "fish-stocks",
+      "vision-disease",
+      "sensor-monitor",
+      "api-ai-timber-market-alert",
+      "api-ai-wildfire-weather-scan",
+      "api-ai-reforestation-plan",
+      "wildfire-assessments",
+      "species-identification",
+      "carbon-estimation",
+      "disease-outbreak",
+      "gis-harvest-blocks",
+      "equipment-maintenance",
+      "breeding-advisor",
+      "equipment-failure"
+    ],
+    "ai": true,
+    "representativeId": "supplier-program-library",
+    "description": "One assistant for 80 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "supplier-program-library",
+        "title": "Supplier program library",
+        "originalPath": "/features/supplier-program-library"
+      },
+      {
+        "id": "farm-account-registry",
+        "title": "Farm account registry",
+        "originalPath": "/features/farm-account-registry"
+      },
+      {
+        "id": "purchase-transaction-ingestion",
+        "title": "Purchase transaction ingestion",
+        "originalPath": "/features/purchase-transaction-ingestion"
+      },
+      {
+        "id": "volume-tier-calculation",
+        "title": "Volume tier calculation",
+        "originalPath": "/features/volume-tier-calculation"
+      },
+      {
+        "id": "early-order-incentive",
+        "title": "Early order incentive",
+        "originalPath": "/features/early-order-incentive"
+      },
+      {
+        "id": "return-exclusion",
+        "title": "Return exclusion",
+        "originalPath": "/features/return-exclusion"
+      },
+      {
+        "id": "rebate-claim-preparation",
+        "title": "Rebate claim preparation",
+        "originalPath": "/features/rebate-claim-preparation"
+      },
+      {
+        "id": "dispute-workflow",
+        "title": "Dispute workflow",
+        "originalPath": "/features/dispute-workflow"
+      },
+      {
+        "id": "farm-supplier-analytics",
+        "title": "Farm supplier analytics",
+        "originalPath": "/features/farm-supplier-analytics"
+      },
+      {
+        "id": "landing-ticket-extraction",
+        "title": "Landing ticket extraction",
+        "originalPath": "/features/landing-ticket-extraction"
+      },
+      {
+        "id": "quota-variance-explanation",
+        "title": "Quota variance explanation",
+        "originalPath": "/features/quota-variance-explanation"
+      },
+      {
+        "id": "landing-correction-brief",
+        "title": "Landing correction brief",
+        "originalPath": "/features/landing-correction-brief"
+      },
+      {
+        "id": "fishery-report-narrative",
+        "title": "Fishery report narrative",
+        "originalPath": "/features/fishery-report-narrative"
+      },
+      {
+        "id": "sensors",
+        "title": "Sensor Devices",
+        "originalPath": "/features/sensors"
+      },
+      {
+        "id": "weather",
+        "title": "Weather",
+        "originalPath": "/features/weather"
+      },
+      {
+        "id": "spray-window",
+        "title": "Spray window",
+        "originalPath": "/features/spray-window"
+      },
+      {
+        "id": "soil-health",
+        "title": "Soil health",
+        "originalPath": "/features/soil-health"
+      },
+      {
+        "id": "disease-early-warning",
+        "title": "Disease early warning",
+        "originalPath": "/features/disease-early-warning"
+      },
+      {
+        "id": "beneficial-insects",
+        "title": "Beneficial insects",
+        "originalPath": "/features/beneficial-insects"
+      },
+      {
+        "id": "audit-crop-rotation",
+        "title": "Crop rotation",
+        "originalPath": "/features/audit-crop-rotation"
+      },
+      {
+        "id": "stumpage-agreement-library",
+        "title": "Stumpage agreement library",
+        "originalPath": "/features/stumpage-agreement-library"
+      },
+      {
+        "id": "tract-cruise-inventory",
+        "title": "Tract cruise inventory",
+        "originalPath": "/features/tract-cruise-inventory"
+      },
+      {
+        "id": "species-grade-mapping",
+        "title": "Species grade mapping",
+        "originalPath": "/features/species-grade-mapping"
+      },
+      {
+        "id": "harvest-load-ingestion",
+        "title": "Harvest load ingestion",
+        "originalPath": "/features/harvest-load-ingestion"
+      },
+      {
+        "id": "board-foot-calculation",
+        "title": "Board-foot calculation",
+        "originalPath": "/features/board-foot-calculation"
+      },
+      {
+        "id": "logger-mill-dispute-workflow",
+        "title": "Logger mill dispute workflow",
+        "originalPath": "/features/logger-mill-dispute-workflow"
+      },
+      {
+        "id": "tract-species-analytics",
+        "title": "Tract species analytics",
+        "originalPath": "/features/tract-species-analytics"
+      },
+      {
+        "id": "subsidies",
+        "title": "Subsidies",
+        "originalPath": "/features/subsidies"
+      },
+      {
+        "id": "farm-chat",
+        "title": "Farm chat",
+        "originalPath": "/features/farm-chat"
+      },
+      {
+        "id": "carbon-footprint",
+        "title": "Carbon footprint",
+        "originalPath": "/features/carbon-footprint"
+      },
+      {
+        "id": "weekly-report",
+        "title": "Weekly report",
+        "originalPath": "/features/weekly-report"
+      },
+      {
+        "id": "results",
+        "title": "Results",
+        "originalPath": "/features/results"
+      },
+      {
+        "id": "soil-amendment",
+        "title": "Soil amendment",
+        "originalPath": "/features/soil-amendment"
+      },
+      {
+        "id": "disease-id-text",
+        "title": "Disease id text",
+        "originalPath": "/features/disease-id-text"
+      },
+      {
+        "id": "irrigation-realtime",
+        "title": "Irrigation realtime",
+        "originalPath": "/features/irrigation-realtime"
+      },
+      {
+        "id": "iot-sensor-summary",
+        "title": "Iot sensor summary",
+        "originalPath": "/features/iot-sensor-summary"
+      },
+      {
+        "id": "biomass-vision-estimate",
+        "title": "AI - Biomass Vision",
+        "originalPath": "/features/biomass-vision-estimate"
+      },
+      {
+        "id": "executive-brief",
+        "title": "AI - Executive Brief",
+        "originalPath": "/features/executive-brief"
+      },
+      {
+        "id": "predator-deterrent-plan",
+        "title": "AI - Predator Deterrent",
+        "originalPath": "/features/predator-deterrent-plan"
+      },
+      {
+        "id": "certification-readiness",
+        "title": "AI - Cert Readiness",
+        "originalPath": "/features/certification-readiness"
+      },
+      {
+        "id": "fish-health-diagnostic",
+        "title": "Fish health diagnostic",
+        "originalPath": "/features/fish-health-diagnostic"
+      },
+      {
+        "id": "harvest-timing",
+        "title": "Harvest timing",
+        "originalPath": "/features/harvest-timing"
+      },
+      {
+        "id": "queen-status-from-sound",
+        "title": "AI · Queen Status From Sound",
+        "originalPath": "/features/queen-status-from-sound"
+      },
+      {
+        "id": "varroa-treatment-recommend",
+        "title": "AI · Varroa Treatment",
+        "originalPath": "/features/varroa-treatment-recommend"
+      },
+      {
+        "id": "pollination-route-plan",
+        "title": "AI · Pollination Route Plan",
+        "originalPath": "/features/pollination-route-plan"
+      },
+      {
+        "id": "treatment-efficacy-analyze",
+        "title": "AI · Treatment Efficacy",
+        "originalPath": "/features/treatment-efficacy-analyze"
+      },
+      {
+        "id": "customer-quote",
+        "title": "AI · Customer Quote",
+        "originalPath": "/features/customer-quote"
+      },
+      {
+        "id": "weather-impact-brief",
+        "title": "AI · Weather Impact Brief",
+        "originalPath": "/features/weather-impact-brief"
+      },
+      {
+        "id": "disease-outbreak-summary",
+        "title": "AI · Disease Outbreak Summary",
+        "originalPath": "/features/disease-outbreak-summary"
+      },
+      {
+        "id": "supply-resupply-plan",
+        "title": "AI · Supply Resupply Plan",
+        "originalPath": "/features/supply-resupply-plan"
+      },
+      {
+        "id": "plant-source-map",
+        "title": "AI · Plant Source Map",
+        "originalPath": "/features/plant-source-map"
+      },
+      {
+        "id": "equipment-prognostic",
+        "title": "AI · Equipment Prognostic",
+        "originalPath": "/features/equipment-prognostic"
+      },
+      {
+        "id": "vendor-quote-compare",
+        "title": "AI · Vendor Quote Compare",
+        "originalPath": "/features/vendor-quote-compare"
+      },
+      {
+        "id": "queen-health-assess",
+        "title": "Queen health assess",
+        "originalPath": "/features/queen-health-assess"
+      },
+      {
+        "id": "beekeeper-mentor",
+        "title": "Beekeeper mentor",
+        "originalPath": "/features/beekeeper-mentor"
+      },
+      {
+        "id": "nectar-flow-calendar",
+        "title": "Nectar flow calendar",
+        "originalPath": "/features/nectar-flow-calendar"
+      },
+      {
+        "id": "strains",
+        "title": "Strains",
+        "originalPath": "/features/strains"
+      },
+      {
+        "id": "license-renewal",
+        "title": "License renewal",
+        "originalPath": "/features/license-renewal"
+      },
+      {
+        "id": "supply-chain",
+        "title": "Supply chain",
+        "originalPath": "/features/supply-chain"
+      },
+      {
+        "id": "harvest-readiness",
+        "title": "Harvest readiness",
+        "originalPath": "/features/harvest-readiness"
+      },
+      {
+        "id": "seed-supplier",
+        "title": "Seed supplier",
+        "originalPath": "/features/seed-supplier"
+      },
+      {
+        "id": "weather-trigger",
+        "title": "Weather Trigger Alerts",
+        "originalPath": "/features/weather-trigger"
+      },
+      {
+        "id": "supplier-match",
+        "title": "Supplier Marketplace Match",
+        "originalPath": "/features/supplier-match"
+      },
+      {
+        "id": "recommend-ipm-strategy",
+        "title": "IPM Strategy",
+        "originalPath": "/features/recommend-ipm-strategy"
+      },
+      {
+        "id": "multi-modal-crop-health-assessment",
+        "title": "Multi modal crop health assessment",
+        "originalPath": "/features/multi-modal-crop-health-assessment"
+      },
+      {
+        "id": "community-reports-lacks-ai-moderation-clustering",
+        "title": "Community reports lacks ai moderation clustering",
+        "originalPath": "/features/community-reports-lacks-ai-moderation-clustering"
+      },
+      {
+        "id": "fish-stocks",
+        "title": "Fish Stock Modeling",
+        "originalPath": "/features/fish-stocks"
+      },
+      {
+        "id": "vision-disease",
+        "title": "Vision Diagnosis",
+        "originalPath": "/features/vision-disease"
+      },
+      {
+        "id": "sensor-monitor",
+        "title": "Sensor Monitor",
+        "originalPath": "/features/sensor-monitor"
+      },
+      {
+        "id": "api-ai-timber-market-alert",
+        "title": "Timber Market Alert",
+        "originalPath": "/features/api-ai-timber-market-alert"
+      },
+      {
+        "id": "api-ai-wildfire-weather-scan",
+        "title": "Wildfire Weather Scan",
+        "originalPath": "/features/api-ai-wildfire-weather-scan"
+      },
+      {
+        "id": "api-ai-reforestation-plan",
+        "title": "Reforestation Plan",
+        "originalPath": "/features/api-ai-reforestation-plan"
+      },
+      {
+        "id": "wildfire-assessments",
+        "title": "Wildfire Assessments",
+        "originalPath": "/features/wildfire-assessments"
+      },
+      {
+        "id": "species-identification",
+        "title": "Species identification",
+        "originalPath": "/features/species-identification"
+      },
+      {
+        "id": "carbon-estimation",
+        "title": "Carbon estimation",
+        "originalPath": "/features/carbon-estimation"
+      },
+      {
+        "id": "disease-outbreak",
+        "title": "Disease outbreak",
+        "originalPath": "/features/disease-outbreak"
+      },
+      {
+        "id": "gis-harvest-blocks",
+        "title": "Gis harvest blocks",
+        "originalPath": "/features/gis-harvest-blocks"
+      },
+      {
+        "id": "equipment-maintenance",
+        "title": "Equipment maintenance",
+        "originalPath": "/features/equipment-maintenance"
+      },
+      {
+        "id": "breeding-advisor",
+        "title": "Breeding Advisor",
+        "originalPath": "/features/breeding-advisor"
+      },
+      {
+        "id": "equipment-failure",
+        "title": "Equipment failure",
+        "originalPath": "/features/equipment-failure"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "product-eligibility-mapping",
+      "acre-application-evidence",
+      "product-bundle-validation",
+      "supplier-statement-audit",
+      "evidence-completeness-review",
+      "residue-risk",
+      "scale-ticket-validation",
+      "hauling-deduction-audit",
+      "weather-risk-alert",
+      "water-quality",
+      "mortality-anomaly-detect",
+      "water-quality-anomaly",
+      "environmental-risk-brief",
+      "diver-safety-brief",
+      "customer-quality-report",
+      "vendor-quality-score",
+      "stocking-density-risk",
+      "swarm-risk-predict",
+      "hive-acoustic-anomaly",
+      "varroa-risk-score",
+      "regulatory-tracker",
+      "seasonal-risk",
+      "regulatory",
+      "api-ai-safety-incident-analysis",
+      "api-ai-compliance-review",
+      "regulatory-rag-assistant-over-usfsstate",
+      "wildfire-risk",
+      "safety-incident-analysis",
+      "disease-risk-assessment",
+      "health-anomaly-detector",
+      "supply-chain-risk"
+    ],
+    "ai": true,
+    "representativeId": "product-eligibility-mapping",
+    "description": "One assistant for 31 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "product-eligibility-mapping",
+        "title": "Product eligibility mapping",
+        "originalPath": "/features/product-eligibility-mapping"
+      },
+      {
+        "id": "acre-application-evidence",
+        "title": "Acre application evidence",
+        "originalPath": "/features/acre-application-evidence"
+      },
+      {
+        "id": "product-bundle-validation",
+        "title": "Product bundle validation",
+        "originalPath": "/features/product-bundle-validation"
+      },
+      {
+        "id": "supplier-statement-audit",
+        "title": "Supplier statement audit",
+        "originalPath": "/features/supplier-statement-audit"
+      },
+      {
+        "id": "evidence-completeness-review",
+        "title": "Evidence completeness review",
+        "originalPath": "/features/evidence-completeness-review"
+      },
+      {
+        "id": "residue-risk",
+        "title": "Residue risk",
+        "originalPath": "/features/residue-risk"
+      },
+      {
+        "id": "scale-ticket-validation",
+        "title": "Scale ticket validation",
+        "originalPath": "/features/scale-ticket-validation"
+      },
+      {
+        "id": "hauling-deduction-audit",
+        "title": "Hauling deduction audit",
+        "originalPath": "/features/hauling-deduction-audit"
+      },
+      {
+        "id": "weather-risk-alert",
+        "title": "Weather risk alert",
+        "originalPath": "/features/weather-risk-alert"
+      },
+      {
+        "id": "water-quality",
+        "title": "Water Quality",
+        "originalPath": "/features/water-quality"
+      },
+      {
+        "id": "mortality-anomaly-detect",
+        "title": "AI - Mortality Anomaly",
+        "originalPath": "/features/mortality-anomaly-detect"
+      },
+      {
+        "id": "water-quality-anomaly",
+        "title": "AI - Water Quality Anomaly",
+        "originalPath": "/features/water-quality-anomaly"
+      },
+      {
+        "id": "environmental-risk-brief",
+        "title": "AI - Environmental Risk",
+        "originalPath": "/features/environmental-risk-brief"
+      },
+      {
+        "id": "diver-safety-brief",
+        "title": "AI - Diver Safety Brief",
+        "originalPath": "/features/diver-safety-brief"
+      },
+      {
+        "id": "customer-quality-report",
+        "title": "AI - Customer Quality",
+        "originalPath": "/features/customer-quality-report"
+      },
+      {
+        "id": "vendor-quality-score",
+        "title": "AI - Vendor Quality",
+        "originalPath": "/features/vendor-quality-score"
+      },
+      {
+        "id": "stocking-density-risk",
+        "title": "Stocking density risk",
+        "originalPath": "/features/stocking-density-risk"
+      },
+      {
+        "id": "swarm-risk-predict",
+        "title": "AI · Swarm Risk Predict",
+        "originalPath": "/features/swarm-risk-predict"
+      },
+      {
+        "id": "hive-acoustic-anomaly",
+        "title": "Hive acoustic anomaly",
+        "originalPath": "/features/hive-acoustic-anomaly"
+      },
+      {
+        "id": "varroa-risk-score",
+        "title": "Varroa risk score",
+        "originalPath": "/features/varroa-risk-score"
+      },
+      {
+        "id": "regulatory-tracker",
+        "title": "Regulatory tracker",
+        "originalPath": "/features/regulatory-tracker"
+      },
+      {
+        "id": "seasonal-risk",
+        "title": "Seasonal Risk Calendar",
+        "originalPath": "/features/seasonal-risk"
+      },
+      {
+        "id": "regulatory",
+        "title": "Regulatory Compliance",
+        "originalPath": "/features/regulatory"
+      },
+      {
+        "id": "api-ai-safety-incident-analysis",
+        "title": "Safety Incident Analyser",
+        "originalPath": "/features/api-ai-safety-incident-analysis"
+      },
+      {
+        "id": "api-ai-compliance-review",
+        "title": "Compliance Review",
+        "originalPath": "/features/api-ai-compliance-review"
+      },
+      {
+        "id": "regulatory-rag-assistant-over-usfsstate",
+        "title": "regulatory rag assistant over usfsstate",
+        "originalPath": "/features/regulatory-rag-assistant-over-usfsstate"
+      },
+      {
+        "id": "wildfire-risk",
+        "title": "Wildfire risk",
+        "originalPath": "/features/wildfire-risk"
+      },
+      {
+        "id": "safety-incident-analysis",
+        "title": "Safety incident analysis",
+        "originalPath": "/features/safety-incident-analysis"
+      },
+      {
+        "id": "disease-risk-assessment",
+        "title": "Disease Risk Assessment",
+        "originalPath": "/features/disease-risk-assessment"
+      },
+      {
+        "id": "health-anomaly-detector",
+        "title": "Health Anomaly Detector",
+        "originalPath": "/features/health-anomaly-detector"
+      },
+      {
+        "id": "supply-chain-risk",
+        "title": "Supply chain risk",
+        "originalPath": "/features/supply-chain-risk"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "loyalty-status-control",
+      "weight-conversion-factors",
+      "feed-conversion-optimize"
+    ],
+    "ai": true,
+    "representativeId": "loyalty-status-control",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "loyalty-status-control",
+        "title": "Loyalty status control",
+        "originalPath": "/features/loyalty-status-control"
+      },
+      {
+        "id": "weight-conversion-factors",
+        "title": "Weight conversion factors",
+        "originalPath": "/features/weight-conversion-factors"
+      },
+      {
+        "id": "feed-conversion-optimize",
+        "title": "AI - Feed Conversion",
+        "originalPath": "/features/feed-conversion-optimize"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "credit-cash-reconciliation",
+      "species-and-unit-reconciliation",
+      "index-price-validation",
+      "road-cost-deduction",
+      "settlement-recalculation",
+      "cash-reconciliation",
+      "market-price-prediction",
+      "market-price-forecast"
+    ],
+    "ai": true,
+    "representativeId": "credit-cash-reconciliation",
+    "description": "One assistant for 8 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "credit-cash-reconciliation",
+        "title": "Credit cash reconciliation",
+        "originalPath": "/features/credit-cash-reconciliation"
+      },
+      {
+        "id": "species-and-unit-reconciliation",
+        "title": "Species and unit reconciliation",
+        "originalPath": "/features/species-and-unit-reconciliation"
+      },
+      {
+        "id": "index-price-validation",
+        "title": "Index price validation",
+        "originalPath": "/features/index-price-validation"
+      },
+      {
+        "id": "road-cost-deduction",
+        "title": "Road cost deduction",
+        "originalPath": "/features/road-cost-deduction"
+      },
+      {
+        "id": "settlement-recalculation",
+        "title": "Settlement recalculation",
+        "originalPath": "/features/settlement-recalculation"
+      },
+      {
+        "id": "cash-reconciliation",
+        "title": "Cash reconciliation",
+        "originalPath": "/features/cash-reconciliation"
+      },
+      {
+        "id": "market-price-prediction",
+        "title": "Market price prediction",
+        "originalPath": "/features/market-price-prediction"
+      },
+      {
+        "id": "market-price-forecast",
+        "title": "AI - Market Price Forecast",
+        "originalPath": "/features/market-price-forecast"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "mill-receipt-matching",
+      "yield-prediction",
+      "pest-forecast",
+      "sustainability-score",
+      "irrigation-optimize-text",
+      "sea-lice-counts-classify",
+      "treatment-recommend",
+      "biomass-forecast",
+      "mortality-predict",
+      "pen-camera-analyze",
+      "escape-detect",
+      "hive-strength-trend",
+      "harvest-forecast",
+      "foraging-optimizer",
+      "yield-predictions",
+      "microbial-analyzer",
+      "pest-detection",
+      "energy-optimizer",
+      "cross-farm-benchmark",
+      "fertilizer-optimize",
+      "treatment-efficacy-insights",
+      "predict-yield",
+      "optimize-harvest-timing",
+      "supply-chain-optimization",
+      "marketplace-expert-consultations-lack-ai-driven-matching",
+      "farm-management-lacks-ai-yield-forecasting-endpoint",
+      "feed-records",
+      "diseases",
+      "growth-records",
+      "buyer-demand-matching-predictive-marketp",
+      "vendorsupplier-matching-ai-only-telem",
+      "equipment-fleet-crud-beyond-predictiv",
+      "harvest-optimization",
+      "disease-analysis",
+      "growth-prediction",
+      "nutrition-optimizer",
+      "economic-forecaster",
+      "weather-analysis",
+      "crop-recommendations",
+      "commodity-forecast",
+      "market-trend-forecast",
+      "pest-outbreak-prediction",
+      "irrigation-optimize"
+    ],
+    "ai": true,
+    "representativeId": "mill-receipt-matching",
+    "description": "One assistant for 43 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "mill-receipt-matching",
+        "title": "Mill receipt matching",
+        "originalPath": "/features/mill-receipt-matching"
+      },
+      {
+        "id": "yield-prediction",
+        "title": "Yield prediction",
+        "originalPath": "/features/yield-prediction"
+      },
+      {
+        "id": "pest-forecast",
+        "title": "Pest forecast",
+        "originalPath": "/features/pest-forecast"
+      },
+      {
+        "id": "sustainability-score",
+        "title": "Sustainability score",
+        "originalPath": "/features/sustainability-score"
+      },
+      {
+        "id": "irrigation-optimize-text",
+        "title": "Irrigation optimize text",
+        "originalPath": "/features/irrigation-optimize-text"
+      },
+      {
+        "id": "sea-lice-counts-classify",
+        "title": "AI - Sea Lice Classify",
+        "originalPath": "/features/sea-lice-counts-classify"
+      },
+      {
+        "id": "treatment-recommend",
+        "title": "AI - Treatment Recommend",
+        "originalPath": "/features/treatment-recommend"
+      },
+      {
+        "id": "biomass-forecast",
+        "title": "Biomass forecast",
+        "originalPath": "/features/biomass-forecast"
+      },
+      {
+        "id": "mortality-predict",
+        "title": "Mortality predict",
+        "originalPath": "/features/mortality-predict"
+      },
+      {
+        "id": "pen-camera-analyze",
+        "title": "Pen camera analyze",
+        "originalPath": "/features/pen-camera-analyze"
+      },
+      {
+        "id": "escape-detect",
+        "title": "Escape detect",
+        "originalPath": "/features/escape-detect"
+      },
+      {
+        "id": "hive-strength-trend",
+        "title": "AI · Hive Strength Trend",
+        "originalPath": "/features/hive-strength-trend"
+      },
+      {
+        "id": "harvest-forecast",
+        "title": "AI · Harvest Forecast",
+        "originalPath": "/features/harvest-forecast"
+      },
+      {
+        "id": "foraging-optimizer",
+        "title": "Foraging optimizer",
+        "originalPath": "/features/foraging-optimizer"
+      },
+      {
+        "id": "yield-predictions",
+        "title": "Yield predictions",
+        "originalPath": "/features/yield-predictions"
+      },
+      {
+        "id": "microbial-analyzer",
+        "title": "Microbial analyzer",
+        "originalPath": "/features/microbial-analyzer"
+      },
+      {
+        "id": "pest-detection",
+        "title": "Pest detection",
+        "originalPath": "/features/pest-detection"
+      },
+      {
+        "id": "energy-optimizer",
+        "title": "Energy optimizer",
+        "originalPath": "/features/energy-optimizer"
+      },
+      {
+        "id": "cross-farm-benchmark",
+        "title": "Cross-Farm Benchmarking",
+        "originalPath": "/features/cross-farm-benchmark"
+      },
+      {
+        "id": "fertilizer-optimize",
+        "title": "Fertilizer Optimizer",
+        "originalPath": "/features/fertilizer-optimize"
+      },
+      {
+        "id": "treatment-efficacy-insights",
+        "title": "Treatment Efficacy Insights",
+        "originalPath": "/features/treatment-efficacy-insights"
+      },
+      {
+        "id": "predict-yield",
+        "title": "Predict Yield",
+        "originalPath": "/features/predict-yield"
+      },
+      {
+        "id": "optimize-harvest-timing",
+        "title": "Optimize Harvest Timing",
+        "originalPath": "/features/optimize-harvest-timing"
+      },
+      {
+        "id": "supply-chain-optimization",
+        "title": "Supply chain optimization",
+        "originalPath": "/features/supply-chain-optimization"
+      },
+      {
+        "id": "marketplace-expert-consultations-lack-ai-driven-matching",
+        "title": "Marketplace expert consultations lack ai driven matching",
+        "originalPath": "/features/marketplace-expert-consultations-lack-ai-driven-matching"
+      },
+      {
+        "id": "farm-management-lacks-ai-yield-forecasting-endpoint",
+        "title": "Farm management lacks ai yield forecasting endpoint",
+        "originalPath": "/features/farm-management-lacks-ai-yield-forecasting-endpoint"
+      },
+      {
+        "id": "feed-records",
+        "title": "Feed Optimization",
+        "originalPath": "/features/feed-records"
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Detection",
+        "originalPath": "/features/diseases"
+      },
+      {
+        "id": "growth-records",
+        "title": "Growth Analysis",
+        "originalPath": "/features/growth-records"
+      },
+      {
+        "id": "buyer-demand-matching-predictive-marketp",
+        "title": "buyer demand matching predictive marketp",
+        "originalPath": "/features/buyer-demand-matching-predictive-marketp"
+      },
+      {
+        "id": "vendorsupplier-matching-ai-only-telem",
+        "title": "vendorsupplier matching ai only telem",
+        "originalPath": "/features/vendorsupplier-matching-ai-only-telem"
+      },
+      {
+        "id": "equipment-fleet-crud-beyond-predictiv",
+        "title": "equipment fleet crud beyond predictiv",
+        "originalPath": "/features/equipment-fleet-crud-beyond-predictiv"
+      },
+      {
+        "id": "harvest-optimization",
+        "title": "Harvest optimization",
+        "originalPath": "/features/harvest-optimization"
+      },
+      {
+        "id": "disease-analysis",
+        "title": "Disease analysis",
+        "originalPath": "/features/disease-analysis"
+      },
+      {
+        "id": "growth-prediction",
+        "title": "Growth prediction",
+        "originalPath": "/features/growth-prediction"
+      },
+      {
+        "id": "nutrition-optimizer",
+        "title": "Nutrition Optimizer",
+        "originalPath": "/features/nutrition-optimizer"
+      },
+      {
+        "id": "economic-forecaster",
+        "title": "Economic Forecaster",
+        "originalPath": "/features/economic-forecaster"
+      },
+      {
+        "id": "weather-analysis",
+        "title": "Weather Analysis",
+        "originalPath": "/features/weather-analysis"
+      },
+      {
+        "id": "crop-recommendations",
+        "title": "Crop Recommendations",
+        "originalPath": "/features/crop-recommendations"
+      },
+      {
+        "id": "commodity-forecast",
+        "title": "Commodity forecast",
+        "originalPath": "/features/commodity-forecast"
+      },
+      {
+        "id": "market-trend-forecast",
+        "title": "Market trend forecast",
+        "originalPath": "/features/market-trend-forecast"
+      },
+      {
+        "id": "pest-outbreak-prediction",
+        "title": "Pest outbreak prediction",
+        "originalPath": "/features/pest-outbreak-prediction"
+      },
+      {
+        "id": "irrigation-optimize",
+        "title": "Irrigation optimize",
+        "originalPath": "/features/irrigation-optimize"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "harvest-schedule",
+      "vessel-shift-schedule",
+      "beekeeper-schedule",
+      "labor-scheduling-ai-for-field"
+    ],
+    "ai": true,
+    "representativeId": "harvest-schedule",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "harvest-schedule",
+        "title": "AI - Harvest Schedule",
+        "originalPath": "/features/harvest-schedule"
+      },
+      {
+        "id": "vessel-shift-schedule",
+        "title": "AI - Vessel Shift Schedule",
+        "originalPath": "/features/vessel-shift-schedule"
+      },
+      {
+        "id": "beekeeper-schedule",
+        "title": "AI · Beekeeper Schedule",
+        "originalPath": "/features/beekeeper-schedule"
+      },
+      {
+        "id": "labor-scheduling-ai-for-field",
+        "title": "labor scheduling ai for field",
+        "originalPath": "/features/labor-scheduling-ai-for-field"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "History",
+        "originalPath": "/features/history"
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ai-agricultural-input-rebate-recovery",
+    "name": "Agricultural input rebate recovery",
+    "sourceProject": "ai-agricultural-input-rebate-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-commercial-fishing-quota-ledger",
+    "name": "Commercial fishing quota ledger",
+    "sourceProject": "ai-commercial-fishing-quota-ledger",
+    "services": []
+  },
+  {
+    "id": "ai-dairy-milk-component-payment-audit",
+    "name": "Dairy milk component payment audit",
+    "sourceProject": "ai-dairy-milk-component-payment-audit",
+    "services": []
+  },
+  {
+    "id": "ai-grain-elevator-merchandising-settlement",
+    "name": "Grain elevator merchandising settlement",
+    "sourceProject": "ai-grain-elevator-merchandising-settlement",
+    "services": []
+  },
+  {
+    "id": "ai-h2a-farm-labor-compliance",
+    "name": "H2a farm labor compliance",
+    "sourceProject": "ai-h2a-farm-labor-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-low-pesticide-agriculture",
+    "name": "Low pesticide agriculture",
+    "sourceProject": "ai-low-pesticide-agriculture",
+    "services": []
+  },
+  {
+    "id": "ai-organic-certification-evidence",
+    "name": "Organic certification evidence",
+    "sourceProject": "ai-organic-certification-evidence",
+    "services": []
+  },
+  {
+    "id": "ai-produce-packhouse-traceability",
+    "name": "Produce packhouse traceability",
+    "sourceProject": "ai-produce-packhouse-traceability",
+    "services": []
+  },
+  {
+    "id": "ai-timber-stumpage-royalty-audit",
+    "name": "Timber stumpage royalty audit",
+    "sourceProject": "ai-timber-stumpage-royalty-audit",
+    "services": []
+  },
+  {
+    "id": "AIAgricultureAssistant",
+    "name": "Agriculture assistant",
+    "sourceProject": "AIAgricultureAssistant",
+    "services": []
+  },
+  {
+    "id": "AIAquacultureFishFarm",
+    "name": "Aquaculture fish farm",
+    "sourceProject": "AIAquacultureFishFarm",
+    "services": []
+  },
+  {
+    "id": "AIBeekeepingApiary",
+    "name": "Beekeeping apiary",
+    "sourceProject": "AIBeekeepingApiary",
+    "services": []
+  },
+  {
+    "id": "AICannabisCultivationCompliance",
+    "name": "Cannabis cultivation compliance",
+    "sourceProject": "AICannabisCultivationCompliance",
+    "services": []
+  },
+  {
+    "id": "AICropDiseasePestDetection",
+    "name": "Crop disease pest detection",
+    "sourceProject": "AICropDiseasePestDetection",
+    "services": []
+  },
+  {
+    "id": "AIFisheriesAquacultureManager",
+    "name": "Fisheries aquaculture manager",
+    "sourceProject": "AIFisheriesAquacultureManager",
+    "services": []
+  },
+  {
+    "id": "AIForestryTimberManagement",
+    "name": "Forestry timber management",
+    "sourceProject": "AIForestryTimberManagement",
+    "services": []
+  },
+  {
+    "id": "AILivestockHealthMonitoring",
+    "name": "Livestock health monitoring",
+    "sourceProject": "AILivestockHealthMonitoring",
+    "services": []
+  },
+  {
+    "id": "AIYieldPredictionMarketIntel",
+    "name": "Yield prediction market intel",
+    "sourceProject": "AIYieldPredictionMarketIntel",
+    "services": []
+  }
+]

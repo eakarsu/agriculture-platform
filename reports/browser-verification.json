@@ -1,0 +1,11 @@
+{
+  "id": "agriculture-platform",
+  "status": "passed",
+  "pagesVisited": 338,
+  "minimumRows": 15,
+  "browserCRUD": true,
+  "persistence": true,
+  "mobile": true,
+  "pageErrors": [],
+  "verifiedAt": "2026-09-07T14:40:05.109Z"
+}

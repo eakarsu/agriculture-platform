@@ -1,0 +1,9 @@
+{
+  "app": "agriculture-platform",
+  "features": 338,
+  "sourceApps": 18,
+  "calculatorEngines": 0,
+  "registryHash": "d9bb5096678f2861bf32498d48542d0719d30c78551a8be2300f865a6303a783",
+  "builtAt": "2026-09-07T22:05:42.643Z",
+  "status": "built"
+}
