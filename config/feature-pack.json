@@ -1,0 +1,22 @@
+{
+  "insights": [
+    {
+      "id": "insight-fields",
+      "feature": "fields",
+      "title": "Fields insight",
+      "focus": "Summarize Fields records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "insight-landing-record",
+      "feature": "landing-record",
+      "title": "Landing record insight",
+      "focus": "Summarize Landing Record records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks, including unassigned work."
+    }
+  ]
+}
